@@ -1,6 +1,6 @@
-![Alt Text](Flynn_GOL_new.gif)
+## Hi. I'm a data engineer, with a love of most things math and technology.
 
-## Hi. I'm a data engineer, with a love of most things math and technology. 
+![Alt Text](Flynn_GOL_new.gif) 
 
 ## Some samples of languages / frameworks I'm enjoy using:
 
