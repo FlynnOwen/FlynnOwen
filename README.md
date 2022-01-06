@@ -1,4 +1,4 @@
-<h2 align="center"> Hi. I'm a data engineer with a love of math and software.</h2>
+<h2 align="center"> Flynn Owen. Data Engineer. </h2>
 
 <p>
   <img align="left" width="490" height="165" src="Flynn_GOL_new.gif"/>
