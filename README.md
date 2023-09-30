@@ -1,5 +1,4 @@
-<p>
-  <div>
+<div>
   <img align="left" width="490" height="165" src="Flynn_GOL_new.gif"/>
     <p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -17,4 +16,3 @@
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
     </p>
   </div>
-</p>
